@@ -18,7 +18,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
 
         setContent{
-            Loginpage()
+            MainPage()
         }
 //        setContentView(R.layout.loginpage)
 
