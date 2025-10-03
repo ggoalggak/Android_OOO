@@ -18,10 +18,8 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
 
         setContent{
-            Loginpage()
+            MainPage()
+//            Loginpage()
         }
-//        setContentView(R.layout.loginpage)
-
-
     }
 }
